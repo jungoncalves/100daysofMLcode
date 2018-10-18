@@ -44,3 +44,8 @@ Horas dedicadas: 1 horas
 
 Progresso do dia: Continuação da analise exploratória dos dados  
 
+## Dia 7: 18.10.18 
+
+Horas dedicadas: 1:15 horas
+
+Progresso do dia: Foram feita Features Engineering, limpeza do dados  e preparação para o modelo 
